@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/allen/rep/fpis3.9/target/scala-2.13/fpis3-9_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListLengthTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/ListLengthTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListLengthTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/ListLengthTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListLengthTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/ListLengthTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.9/target/scala-2.13/classes/Nil$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
